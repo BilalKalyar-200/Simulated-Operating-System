@@ -46,6 +46,7 @@ cd mini-os
 g++ -o mini_os src/*.cpp
 ./mini_os
 
+**You don't need to link all other cpp files (of apps) they are already linked in main you just have to run the main file**
 👤 Roles & Permissions
 Admin:
 
